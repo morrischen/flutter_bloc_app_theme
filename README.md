@@ -12,7 +12,6 @@
 ## 專案結構
 
 .
-lib/
 ├── cubit/                   # Cubit 相關檔案
 │   ├── theme_cubit.dart     # 主題 Cubit
 │   └── theme_state.dart     # 主題狀態
