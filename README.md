@@ -10,12 +10,15 @@
 - 響應式使用者介面
 
 ## 專案結構
+
+.
 lib/
-├── cubit/ # Cubit 相關檔案
-│ ├── theme_cubit.dart # 主題 Cubit
-│ └── theme_state.dart # 主題狀態
-├── app_theme.dart # 主題設定
-└── main.dart # 程式進入點
+├── cubit/                   # Cubit 相關檔案
+│   ├── theme_cubit.dart     # 主題 Cubit
+│   └── theme_state.dart     # 主題狀態
+├── app_theme.dart           # 主題設定
+├── main.dart                # 程式進入點
+└── README.md                # 文件說明
 
 ## 使用技術
 
