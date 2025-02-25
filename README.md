@@ -11,6 +11,7 @@
 
 ## 專案結構
 
+```
 .
 ├── README.md                   # 文件說明
 ├── lib
@@ -20,6 +21,7 @@
 │   │   └── theme_state.dart    # 主題狀態
 │   └── main.dart               # 程式進入點
 └── pubspec.yaml
+```
 
 ## 使用技術
 
